@@ -1,4 +1,4 @@
-### Hello 👋! I'm a postdoctoral scholar at UC Davis and my bioinformatics research is focused on analyzing and integrating mutli-'omic data, including RNA-seq, 16S microbiome sequencing, whole-genome bisulfite-sequencing (WGBS), and metabolomic data. Examples of this work can be found in the following publications:
+### Hello 👋! I'm a postdoctoral fellow at UC Davis and my bioinformatics research is focused on analyzing and integrating mutli-'omic data, including RNA-seq, 16S microbiome sequencing, whole-genome bisulfite-sequencing (WGBS), and metabolomic data. Examples of this work can be found in the following publications:
 
 * ["Sex disparate gut microbiome and metabolome perturbations precede disease progression in a mouse model of Rett syndrome"](https://rdcu.be/cDkCI)
 
