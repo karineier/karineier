@@ -4,7 +4,7 @@
 
 * ["Genome-wide DNA methylation profiles of neurodevelopmental disorder genes in mouse placenta and fetal brain following prenatal exposure to polychlorinated biphenyls"](https://www.biorxiv.org/content/10.1101/2021.05.27.446011v1)
 
-I'm looking to continue gaining insights into the biology and pathophysiology of neurodevelopmental disorders by integrating single-cell sequencing data with bulk sequencing data and metabolomics by expanding my skills in R and Python. 
+I'm looking to continue gaining insights into the biology and pathophysiology of neurological and metabolic disorders by integrating single-cell sequencing data with bulk sequencing data and metabolomics by expanding my skills in R and Python. 
 
 Contact me: 
 * Email: karineier@gmail.com 
